@@ -1,3 +1,5 @@
+![shopping_list_img](https://user-images.githubusercontent.com/74476202/104820285-104da600-5834-11eb-8efd-d176ee673879.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
